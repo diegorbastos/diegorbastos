@@ -1,6 +1,6 @@
 ## Sobre mim
 
-🎓 Estudando Sistemas de Informação no Instituto Federal de São Paulo.
+🎓 Estudando Sistemas de Informação no Instituto Federal de São Paulo.\
 🌱 Aprendendo sobre Ciência de Dados.
 
 ## Onde me encontrar
