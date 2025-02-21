@@ -1,10 +1,18 @@
-## Sobre mim
+# About Me  
 
-🎓 Estudando Sistemas de Informação no Instituto Federal de São Paulo.\
-🌱 Aprendendo sobre Ciência de Dados.
+🎓 Studying Information Systems at the Federal Institute of São Paulo.  
+🌱 Passionate about learning, currently diving into Data Science.  
 
-## Onde me encontrar
+## Where to Find Me  
 
-[![Linkedin](https://img.shields.io/badge/-diegorbastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegorbastos/)](https://www.linkedin.com/in/diegorbastos/)
-[![Gmail Badge](https://img.shields.io/badge/-b.diieego@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.diieego@gmail.com)](mailto:b.diieego@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/diegorbastos?label=follow&style=social)](https://github.com/diegorbastos)
+<p align="left">
+  <a href="https://www.linkedin.com/in/diegorbastos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:b.diieego@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/diegorbastos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>  
